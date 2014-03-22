@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="Widget.Sample.ActionBarTitle" parent="android:Widget.TextView">
+    <item name="android:paddingLeft">8dp</item>
+    <item name="android:paddingRight">8dp</item>
+    <!-- Use 'dp' so that the user's font preference doesn't affect the action bar. -->
+    <item name="android:textSize">19dp</item>
+    <item name="android:textColor">#ffffffff</item>
+    <item name="android:gravity">center_vertical</item>
+    <item name="android:singleLine">true</item>
+    <item name="android:ellipsize">end</item>
+    <item name="android:textStyle">italic</item>
+  </style>
+
+  <style name="Widget.Sample.DescriptionUrl" parent="android:Widget.TextView">
+    <item name="android:textSize">15sp</item>
+  </style>
+
+  <style name="Widget.Sample.DescriptionText" parent="android:Widget.TextView">
+    <item name="android:textSize">12sp</item>
+  </style>
+</resources>

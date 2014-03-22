@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Images Galore</string>
+  <string name="hide">HIDE</string>
+  <string name="more">MORE</string>
+  <string name="sample_widget">Widget</string>
+  <string name="sample_notification">Notification</string>
+  <string name="select_picture">Picture</string>
+  <string name="disk_cache_description">Descriptions</string>
+</resources>
